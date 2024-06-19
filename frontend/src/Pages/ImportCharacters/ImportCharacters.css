@@ -1,0 +1,13 @@
+.import-characters {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.import-characters form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
